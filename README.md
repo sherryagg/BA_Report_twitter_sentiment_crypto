@@ -26,8 +26,8 @@ This repository contains the source code, data, and documentation for a project 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/sherryagg/BA_Report_twitter_sentiment_crypto.git
-   cd BA_Report_twitter_sentiment_crypto
+   git clone https://github.com/sherryagg/twitter-crypto-sentiment-analysis.git
+   cd twitter-crypto-sentiment-analysis
    ```
 
 2. **Install requirements**  
